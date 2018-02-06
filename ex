@@ -1,2 +1,2 @@
-iam a master
+iam a master node
 
